@@ -1,9 +1,9 @@
 .header {
   height: 600px;
-  background-image: url(./BgHeader.jpg);
+  background-image: url(./images/BgHeader.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position-y: -150px ;
 
 }
 

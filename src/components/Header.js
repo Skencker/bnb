@@ -1,6 +1,6 @@
 import React from 'react'
 import Nav from './Nav'
-import BgHeader from './BgHeader.jpg'
+
 import './Header.css'
 
 

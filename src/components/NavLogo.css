@@ -1,4 +1,11 @@
 .img-logo {
   margin-left: 50px;
   margin-top: 10px;
+
+  background-image: url('./images/logo.png');
+  background-repeat: no-repeat;
+
+  width: 70px;
+  height: 70px;
+
 }
