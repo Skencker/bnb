@@ -1,0 +1,19 @@
+.nav-bar-items {
+  display: flex;
+  align-items: center;
+}
+
+li {
+  
+  padding-right: 30px;
+  
+}
+
+a {
+  
+  font-size: 1.5rem;
+  color: white;
+  background-color: black;
+  font-weight: bold;
+
+}

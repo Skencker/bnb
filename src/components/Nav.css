@@ -1,0 +1,8 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+  z-index: 1000;
+  position: absolute;
+  width: 100vw;
+}
