@@ -1,5 +1,6 @@
 import React from 'react'
 import Nav from './Nav'
+import Form from './Form'
 
 import './Header.css'
 
@@ -7,8 +8,9 @@ import './Header.css'
 const Header = () => {
   return (
     <>
-      <Nav />
       <div className = "header">
+      <Nav />
+      <Form />
         
       </div>
     </>

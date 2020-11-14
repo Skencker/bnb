@@ -1,0 +1,21 @@
+button {
+  width: 450px;
+  height: 50px;
+
+  border-radius: 10px 10px;
+
+  border: 1px solid lightgrey;
+
+  background-color: #e11262;
+
+  color: white;
+
+  cursor: pointer;
+
+  font-size: 16px;
+  font-weight: bold;
+
+  /* couleur animation hover #fe375b*/
+
+  /* animation au clic*/
+}

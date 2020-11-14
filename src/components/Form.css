@@ -1,0 +1,95 @@
+.form-text {
+  width: 500px;
+  height: 450px;
+
+  background-color: white;
+
+  position: absolute;
+  top: 70px;
+  left: 15%;
+
+  border-radius: 15px;
+
+  padding: 20px;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h1 {
+  font-size: 35px;
+}
+
+p {
+  font-size: 18px;
+
+  padding-right: 10px;
+
+  color: gray;
+
+  text-align: justify;
+}
+
+.input {
+  padding-top: 10px;
+  padding-left: 10px;
+
+  width: 220px;
+  height: 60px;
+
+  font-size: 18px;
+  border-radius: 10px 10px;
+  border: 1px solid lightgrey;
+}
+
+.input:focus {
+  border-radius: 10px 10px;
+}
+
+.label {
+  position: absolute;
+  font-size: 10px;
+}
+
+.label-address {
+  top: 178px;
+  left: 30px;
+}
+
+.input-address {
+  width: 450px;
+}
+
+.label-arrive {
+  top: 248px;
+  left: 30px;
+}
+
+.input-arrive {
+  margin-top: 10px;
+}
+.label-depart {
+  top: 248px;
+  left: 260px;
+}
+
+.input-depart {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.label-adulte {
+  top: 318px;
+  left: 30px;
+}
+
+.input-adulte {
+  margin-top: 10px;
+}
+.label-enfant {
+  top: 318px;
+  left: 260px;
+}
+
+.input-enfant {
+  margin-left: 10px;
+}
